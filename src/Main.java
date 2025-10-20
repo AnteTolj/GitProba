@@ -5,7 +5,7 @@ public class Main {
         int suma = 0;
         for (int i = 1; i <= 5; i++) {
             suma += i;
-
+            System.out.println("Brojevi po redu su:", i);
         }
         System.out.println("Suma brojeva je = " + suma);
     }
