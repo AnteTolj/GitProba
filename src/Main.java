@@ -9,5 +9,6 @@ public class Main {
             //ispisuje brojeve po redu
         }
         System.out.println("Suma brojeva je = " + suma);
+        //suma svih brojeva
     }
 }
